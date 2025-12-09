@@ -4,12 +4,8 @@ FDT Pro is a Python tool that generates frequency distribution tables for ungrou
 **#FDT Pro – User Instructions**
 1. Prerequisites
   Required Python modules: tabulate, pyfiglet, colorama
-
-  1.a) You can install all required modules via terminal/command prompt using:
-      - pip install tabulate pyfiglet colorama
-      
-  1.b)Alternatively, if you have a requirements.txt file:
-      - pip install -r requirements.txt
+  You can install all required modules via terminal/command prompt using:
+     pip install tabulate pyfiglet colorama
 
 2. How the Program Works
   When you run FDT Pro, you will be prompted to choose between generating:
